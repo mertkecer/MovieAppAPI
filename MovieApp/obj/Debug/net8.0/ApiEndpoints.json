@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MovieApp.Api.Controllers.MovieController",
+    "Method": "DeleteMovie",
+    "RelativePath": "api/Movie/DeleteMovie/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApp.Api.Controllers.MovieController",
+    "Method": "GetMovieById",
+    "RelativePath": "api/Movie/GetMovieById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApp.Api.Controllers.MovieController",
+    "Method": "GetMovies",
+    "RelativePath": "api/Movie/GetMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieApp.Api.Controllers.MovieController",
+    "Method": "SaveMovie",
+    "RelativePath": "api/Movie/SaveMovie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movie",
+        "Type": "MovieApp.Api.ViewModels.MovieViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

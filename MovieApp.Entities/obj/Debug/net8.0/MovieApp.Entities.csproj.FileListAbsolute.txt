@@ -1,0 +1,14 @@
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\bin\Debug\net8.0\MovieApp.Entities.deps.json
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\bin\Debug\net8.0\MovieApp.Entities.runtimeconfig.json
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\bin\Debug\net8.0\MovieApp.Entities.dll
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\bin\Debug\net8.0\MovieApp.Entities.pdb
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.csproj.AssemblyReference.cache
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.AssemblyInfoInputs.cache
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.AssemblyInfo.cs
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.dll
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\refint\MovieApp.Entities.dll
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.pdb
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\MovieApp.Entities.genruntimeconfig.cache
+C:\Users\mkecer\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net8.0\ref\MovieApp.Entities.dll
